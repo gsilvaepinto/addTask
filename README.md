@@ -14,7 +14,7 @@ This is a simple task manager program written in JavaScript. It allows users to 
    - `quit` or `q`: Quits the program.
 5. Follow the prompts to complete the desired action.
 
-## What You Can Learn
+## Basic JavaScript
 
 This program demonstrates the use of basic JavaScript concepts such as:
 
